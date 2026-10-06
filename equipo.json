@@ -1,12 +1,12 @@
 {
   "integrante_a": {
-    "nombre": "Victor Sarmiento",
-    "github_user": "SarmientoEdu",
-    "rol": "PENDIENTE"
+    "nombre": "Isaaid Caicedo",
+    "github_user": "SrCaliche",
+    "rol": "Moderador"
   },
   "integrante_b": {
-    "nombre": "Juan P",
-    "github_user": "Juanpo",
-    "rol": "PENDIENTE"
+    "nombre": "Christopher Coronel",
+    "github_user": "Christopher7629cc",
+    "rol": "Desarrollador Secundario"
   }
 }
