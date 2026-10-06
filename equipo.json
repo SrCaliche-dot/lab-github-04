@@ -2,11 +2,16 @@
   "integrante_a": {
     "nombre": "Isaaid Caicedo",
     "github_user": "SrCaliche",
+
     "rol": "moderador"
+
+    
   },
   "integrante_b": {
     "nombre": "Christopher Coronel",
     "github_user": "Christopher7629cc",
     "rol": "desarrollador secundario"
+
+    
   }
 }
